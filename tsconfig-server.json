@@ -1,0 +1,17 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "outDir": "dist",
+      "lib": ["es2019"],
+      "target": "es2019",
+      "isolatedModules": false,
+      "noEmit": false,
+      "paths": {
+        "@/*": ["./src/*"]
+      }
+    },
+    "files": ["lighthouse.d.ts"],
+    "include": [ "lighthouse.d.ts", "src/server.ts", "src/lib"]
+  }

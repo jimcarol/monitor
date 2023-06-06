@@ -1,0 +1,1772 @@
+{
+    "https://www.thebump.com/": {
+        "performance": {
+          "mobile": {  "2023-06-06": 61 },
+          "desktop": { "2023-06-06": 74 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.35 },
+          "desktop": { "2023-06-06": 0.55 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 13.74 },
+          "desktop": { "2023-06-06": 6.95 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 7.82 },
+          "desktop": { "2023-06-06": 3.35 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.73 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.18 },
+          "desktop": { "2023-06-06": 2.07 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.105 },
+          "desktop": { "2023-06-06": 0.001 }
+        }
+      },
+      "https://www.thebump.com/pregnancy-week-by-week": {
+        "performance": {
+          "mobile": { "2023-06-06": 76 },
+          "desktop": { "2023-06-06": 80 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.39 },
+          "desktop": { "2023-06-06": 0.37 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.88 },
+          "desktop": { "2023-06-06": 6.38 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.29 },
+          "desktop": { "2023-06-06": 3.09 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.34 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 3.39 },
+          "desktop": { "2023-06-06": 1.41 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.037 },
+          "desktop": { "2023-06-06": 0.072 }
+        }
+      },
+      "https://www.thebump.com/pregnancy-week-by-week/4-weeks-pregnant": {
+        "performance": {
+          "mobile": { "2023-06-06": 47 },
+          "desktop": { "2023-06-06": 81 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.59 },
+          "desktop": { "2023-06-06": 0.46 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 14.45 },
+          "desktop": { "2023-06-06": 7.5 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 5.17 },
+          "desktop": { "2023-06-06": 2.98 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 1.13 },
+          "desktop": { "2023-06-06": 0.06 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 4.68 },
+          "desktop": { "2023-06-06": 1.16 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/toddler": {
+        "performance": {
+          "mobile": { "2023-06-06": 73 },
+          "desktop": { "2023-06-06": 80 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.45 },
+          "desktop": { "2023-06-06": 0.44 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.62 },
+          "desktop": { "2023-06-06": 6.16 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 4.72 },
+          "desktop": { "2023-06-06": 3.51 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.33 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 3.49 },
+          "desktop": { "2023-06-06": 1.36 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.059 },
+          "desktop": { "2023-06-06": 0.054 }
+        }
+      },
+      "https://www.thebump.com/topics/second-trimester": {
+        "performance": {
+          "mobile": { "2023-06-06": 68 },
+          "desktop": { "2023-06-06": 84 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.33 },
+          "desktop": { "2023-06-06": 0.38 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 14.48 },
+          "desktop": { "2023-06-06": 6.34 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 5.32 },
+          "desktop": { "2023-06-06": 2.72 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.74 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 1.76 },
+          "desktop": { "2023-06-06": 0.96 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.018 },
+          "desktop": { "2023-06-06": 0.045 }
+        }
+      },
+      "https://www.thebump.com/best-of-baby": {
+        "performance": {
+          "mobile": { "2023-06-06": 73 },
+          "desktop": { "2023-06-06": 77 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.4 },
+          "desktop": { "2023-06-06": 0.4 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.87 },
+          "desktop": { "2023-06-06": 7.8 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 4.9 },
+          "desktop": { "2023-06-06": 4.22 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.32 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 3.6 },
+          "desktop": { "2023-06-06": 1.4 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.026 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/perks": {
+        "performance": {
+          "mobile": { "2023-06-06": 60 },
+          "desktop": { "2023-06-06": 75 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.43 },
+          "desktop": { "2023-06-06": 0.56 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 14 },
+          "desktop": { "2023-06-06": 6.92 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 7.98 },
+          "desktop": { "2023-06-06": 3.43 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.6 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.27 },
+          "desktop": { "2023-06-06": 1.83 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.207 },
+          "desktop": { "2023-06-06": 0.002 }
+        }
+      },
+      "https://www.thebump.com/tools": {
+        "performance": {
+          "mobile": { "2023-06-06": 72 },
+          "desktop": { "2023-06-06": 82 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.4 },
+          "desktop": { "2023-06-06": 0.4 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.33 },
+          "desktop": { "2023-06-06": 6.3 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.62 },
+          "desktop": { "2023-06-06": 3.67 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.3 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 4.48 },
+          "desktop": { "2023-06-06": 1.17 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.023 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/ovulation-calculator": {
+        "performance": {
+          "mobile": { "2023-06-06": 66 },
+          "desktop": { "2023-06-06": 83 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.31 },
+          "desktop": { "2023-06-06": 0.37 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 13.49 },
+          "desktop": { "2023-06-06": 6.78 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 4.98 },
+          "desktop": { "2023-06-06": 3.17 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.77 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.47 },
+          "desktop": { "2023-06-06": 0.84 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.007 },
+          "desktop": { "2023-06-06": 0.006 }
+        }
+      },
+      "https://www.thebump.com/due-date-calculator": {
+        "performance": {
+          "mobile": { "2023-06-06": 67 },
+          "desktop": { "2023-06-06": 83 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.3 },
+          "desktop": { "2023-06-06": 0.36 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 13.85 },
+          "desktop": { "2023-06-06": 6.87 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 5.77 },
+          "desktop": { "2023-06-06": 3.58 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.71 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.22 },
+          "desktop": { "2023-06-06": 0.73 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.008 },
+          "desktop": { "2023-06-06": 0.022 }
+        }
+      },
+      "https://www.thebump.com/chinese-gender-chart": {
+        "performance": {
+          "mobile": { "2023-06-06": 67 },
+          "desktop": { "2023-06-06": 78 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.36 },
+          "desktop": { "2023-06-06": 0.45 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.22 },
+          "desktop": { "2023-06-06": 7.33 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.44 },
+          "desktop": { "2023-06-06": 3.78 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.99 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.52 },
+          "desktop": { "2023-06-06": 1.35 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.006 },
+          "desktop": { "2023-06-06": 0.005 }
+        }
+      },
+      "https://www.thebump.com/calculators/contraction": {
+        "performance": {
+          "mobile": { "2023-06-06": 73 },
+          "desktop": { "2023-06-06": 81 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.59 },
+          "desktop": { "2023-06-06": 0.47 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.97 },
+          "desktop": { "2023-06-06": 6.87 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 4.4 },
+          "desktop": { "2023-06-06": 3.28 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.37 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 3.36 },
+          "desktop": { "2023-06-06": 1.23 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0.003 }
+        }
+      },
+      "https://www.thebump.com/news/what-to-know-about-zika": {
+        "performance": {
+          "mobile": { "2023-06-06": 53 },
+          "desktop": { "2023-06-06": 63 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.56 },
+          "desktop": { "2023-06-06": 0.74 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.4 },
+          "desktop": { "2023-06-06": 6.88 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 4.34 },
+          "desktop": { "2023-06-06": 3.92 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.53 },
+          "desktop": { "2023-06-06": 0.06 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 7.19 },
+          "desktop": { "2023-06-06": 3.77 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.002 },
+          "desktop": { "2023-06-06": 0.002 }
+        }
+      },
+      "https://www.thebump.com/news/hatch-collection-fall-favorites-secret-sale": {
+        "performance": {
+          "mobile": { "2023-06-06": 57 },
+          "desktop": { "2023-06-06": 65 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.39 },
+          "desktop": { "2023-06-06": 0.47 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.83 },
+          "desktop": { "2023-06-06": 7.22 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.89 },
+          "desktop": { "2023-06-06": 3.57 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.46 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6.1 },
+          "desktop": { "2023-06-06": 3.26 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.001 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/baby-names": {
+        "performance": {
+          "mobile": { "2023-06-06": 69 },
+          "desktop": { "2023-06-06": 84 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.54 },
+          "desktop": { "2023-06-06": 0.43 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 14.32 },
+          "desktop": { "2023-06-06": 6.18 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 5.25 },
+          "desktop": { "2023-06-06": 3.29 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.66 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 1.82 },
+          "desktop": { "2023-06-06": 0.72 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.005 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/girl-baby-names": {
+        "performance": {
+          "mobile": { "2023-06-06": 67 },
+          "desktop": { "2023-06-06": 82 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.51 },
+          "desktop": { "2023-06-06": 0.6 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 13.54 },
+          "desktop": { "2023-06-06": 6.83 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.65 },
+          "desktop": { "2023-06-06": 3.12 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.92 },
+          "desktop": { "2023-06-06": 0.06 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.32 },
+          "desktop": { "2023-06-06": 1.04 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/baby-name-lists": {
+        "performance": {
+          "mobile": { "2023-06-06": 72 },
+          "desktop": { "2023-06-06": 84 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.73 },
+          "desktop": { "2023-06-06": 0.39 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.62 },
+          "desktop": { "2023-06-06": 6.03 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.19 },
+          "desktop": { "2023-06-06": 3.16 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.75 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.49 },
+          "desktop": { "2023-06-06": 0.8 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/baby-middle-names": {
+        "performance": {
+          "mobile": { "2023-06-06": 79 },
+          "desktop": { "2023-06-06": 83 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.44 },
+          "desktop": { "2023-06-06": 0.42 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.59 },
+          "desktop": { "2023-06-06": 6.49 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.36 },
+          "desktop": { "2023-06-06": 3.27 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.41 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.47 },
+          "desktop": { "2023-06-06": 0.86 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/creative-baby-names": {
+        "performance": {
+          "mobile": { "2023-06-06": 82 },
+          "desktop": { "2023-06-06": 83 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.5 },
+          "desktop": { "2023-06-06": 0.39 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.66 },
+          "desktop": { "2023-06-06": 6.54 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.39 },
+          "desktop": { "2023-06-06": 3.24 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.31 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.25 },
+          "desktop": { "2023-06-06": 0.86 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.003 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/most-popular-baby-names": {
+        "performance": {
+          "mobile": { "2023-06-06": 73 },
+          "desktop": { "2023-06-06": 85 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 2 },
+          "desktop": { "2023-06-06": 0.5 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.53 },
+          "desktop": { "2023-06-06": 6.43 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.63 },
+          "desktop": { "2023-06-06": 2.81 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.54 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.77 },
+          "desktop": { "2023-06-06": 0.83 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0.002 }
+        }
+      },
+      "https://www.thebump.com/b/baby-names-that-start-with-a": {
+        "performance": {
+          "mobile": { "2023-06-06": 77 },
+          "desktop": { "2023-06-06": 83 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.44 },
+          "desktop": { "2023-06-06": 0.47 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.31 },
+          "desktop": { "2023-06-06": 6.79 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.45 },
+          "desktop": { "2023-06-06": 3.3 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.47 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.6 },
+          "desktop": { "2023-06-06": 0.93 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/mila-baby-name": {
+        "performance": {
+          "mobile": { "2023-06-06": 85 },
+          "desktop": { "2023-06-06": 84 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.39 },
+          "desktop": { "2023-06-06": 0.44 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.93 },
+          "desktop": { "2023-06-06": 5.25 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.5 },
+          "desktop": { "2023-06-06": 4.09 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.3 },
+          "desktop": { "2023-06-06": 0.02 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.09 },
+          "desktop": { "2023-06-06": 0.76 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/mila-baby-name?adopsqa=outstream": {
+        "performance": {
+          "mobile": { "2023-06-06": 87 },
+          "desktop": { "2023-06-06": 84 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.35 },
+          "desktop": { "2023-06-06": 0.42 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.21 },
+          "desktop": { "2023-06-06": 5.66 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.65 },
+          "desktop": { "2023-06-06": 3.84 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.28 },
+          "desktop": { "2023-06-06": 0.02 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 1.92 },
+          "desktop": { "2023-06-06": 0.6 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/rowan-baby-name": {
+        "performance": {
+          "mobile": { "2023-06-06": 80 },
+          "desktop": { "2023-06-06": 84 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.49 },
+          "desktop": { "2023-06-06": 0.41 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.59 },
+          "desktop": { "2023-06-06": 5.37 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 4.38 },
+          "desktop": { "2023-06-06": 3.88 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.32 },
+          "desktop": { "2023-06-06": 0.02 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.44 },
+          "desktop": { "2023-06-06": 0.75 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/b/rowan-baby-name?adopsqa=outstream": {
+        "performance": {
+          "mobile": { "2023-06-06": 88 },
+          "desktop": { "2023-06-06": 85 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.38 },
+          "desktop": { "2023-06-06": 0.4 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.53 },
+          "desktop": { "2023-06-06": 5.42 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.65 },
+          "desktop": { "2023-06-06": 3.77 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.25 },
+          "desktop": { "2023-06-06": 0.02 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2 },
+          "desktop": { "2023-06-06": 0.64 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/community": {
+        "performance": {
+          "mobile": { "2023-06-06": 44 },
+          "desktop": { "2023-06-06": 63 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.46 },
+          "desktop": { "2023-06-06": 0.51 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 14.5 },
+          "desktop": { "2023-06-06": 6.47 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 9.67 },
+          "desktop": { "2023-06-06": 3.92 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.71 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 3.79 },
+          "desktop": { "2023-06-06": 3.11 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.318 },
+          "desktop": { "2023-06-06": 0.146 }
+        }
+      },
+      "https://www.thebump.com/registry": {
+        "performance": {
+          "mobile": { "2023-06-06": 78 },
+          "desktop": { "2023-06-06": 81 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.37 },
+          "desktop": { "2023-06-06": 0.41 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.07 },
+          "desktop": { "2023-06-06": 6.9 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.95 },
+          "desktop": { "2023-06-06": 2.97 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.36 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 3 },
+          "desktop": { "2023-06-06": 1.28 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.026 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://registry.thebump.com/babyregistrysearch?firstName=john&lastName=lee": {
+        "performance": {
+          "mobile": { "2023-06-06": 49 },
+          "desktop": { "2023-06-06": 62 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 2.46 },
+          "desktop": { "2023-06-06": 1.73 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.87 },
+          "desktop": { "2023-06-06": 4.67 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 6.35 },
+          "desktop": { "2023-06-06": 3.74 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.42 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 8.32 },
+          "desktop": { "2023-06-06": 3.39 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.03 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://registry.thebump.com/laura-liang-april-2021/29481746": {
+        "performance": {
+          "mobile": { "2023-06-06": 55 },
+          "desktop": { "2023-06-06": 63 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 3.21 },
+          "desktop": { "2023-06-06": 1.65 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.4 },
+          "desktop": { "2023-06-06": 4.65 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 7.09 },
+          "desktop": { "2023-06-06": 2.95 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.31 },
+          "desktop": { "2023-06-06": 0.01 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.18 },
+          "desktop": { "2023-06-06": 3.65 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/toddler-month-by-month/20-month-old": {
+        "performance": {
+          "mobile": { "2023-06-06": 46 },
+          "desktop": { "2023-06-06": 74 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.69 },
+          "desktop": { "2023-06-06": 0.63 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 12.89 },
+          "desktop": { "2023-06-06": 7.13 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 7.25 },
+          "desktop": { "2023-06-06": 4.25 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.69 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.57 },
+          "desktop": { "2023-06-06": 1.93 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/toddler-month-by-month": {
+        "performance": {
+          "mobile": { "2023-06-06": 63 },
+          "desktop": { "2023-06-06": 76 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.49 },
+          "desktop": { "2023-06-06": 0.61 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.62 },
+          "desktop": { "2023-06-06": 7.01 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.73 },
+          "desktop": { "2023-06-06": 3.5 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.37 },
+          "desktop": { "2023-06-06": 0.02 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.65 },
+          "desktop": { "2023-06-06": 1.66 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.035 },
+          "desktop": { "2023-06-06": 0.011 }
+        }
+      },
+      "https://www.thebump.com/baby-month-by-month": {
+        "performance": {
+          "mobile": { "2023-06-06": 77 },
+          "desktop": { "2023-06-06": 79 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.36 },
+          "desktop": { "2023-06-06": 0.42 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.96 },
+          "desktop": { "2023-06-06": 5.56 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.59 },
+          "desktop": { "2023-06-06": 4.65 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.34 },
+          "desktop": { "2023-06-06": 0.01 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 3.24 },
+          "desktop": { "2023-06-06": 1.39 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.036 },
+          "desktop": { "2023-06-06": 0.091 }
+        }
+      },
+      "https://www.thebump.com/baby-month-by-month/8-month-old-baby": {
+        "performance": {
+          "mobile": { "2023-06-06": 46 },
+          "desktop": { "2023-06-06": 70 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.6 },
+          "desktop": { "2023-06-06": 0.46 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 13.4 },
+          "desktop": { "2023-06-06": 7.5 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 7.15 },
+          "desktop": { "2023-06-06": 3.59 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.71 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.44 },
+          "desktop": { "2023-06-06": 2.4 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/oversharing-online": {
+        "performance": {
+          "mobile": { "2023-06-06": 58 },
+          "desktop": { "2023-06-06": 64 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.63 },
+          "desktop": { "2023-06-06": 0.56 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.66 },
+          "desktop": { "2023-06-06": 6.89 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 4.94 },
+          "desktop": { "2023-06-06": 3.61 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.35 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6.59 },
+          "desktop": { "2023-06-06": 3.55 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/ovulation-symptoms-signs-of-ovulation": {
+        "performance": {
+          "mobile": { "2023-06-06": 64 },
+          "desktop": { "2023-06-06": 72 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.84 },
+          "desktop": { "2023-06-06": 0.49 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.16 },
+          "desktop": { "2023-06-06": 6.24 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.64 },
+          "desktop": { "2023-06-06": 3.16 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.97 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.87 },
+          "desktop": { "2023-06-06": 2.49 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.015 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/checklist-baby-essentials": {
+        "performance": {
+          "mobile": { "2023-06-06": 70 },
+          "desktop": { "2023-06-06": 67 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.57 },
+          "desktop": { "2023-06-06": 0.44 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.14 },
+          "desktop": { "2023-06-06": 6.55 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.18 },
+          "desktop": { "2023-06-06": 3.75 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.39 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 4.22 },
+          "desktop": { "2023-06-06": 3.09 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.046 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/unique-baby-shower-games-ideas": {
+        "performance": {
+          "mobile": { "2023-06-06": 55 },
+          "desktop": { "2023-06-06": 63 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.6 },
+          "desktop": { "2023-06-06": 0.54 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.53 },
+          "desktop": { "2023-06-06": 7.16 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.58 },
+          "desktop": { "2023-06-06": 4.14 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.49 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6.44 },
+          "desktop": { "2023-06-06": 3.7 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.006 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/how-to-get-pregnant-fast-tips": {
+        "performance": {
+          "mobile": { "2023-06-06": 56 },
+          "desktop": { "2023-06-06": 73 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.69 },
+          "desktop": { "2023-06-06": 0.44 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.86 },
+          "desktop": { "2023-06-06": 6.26 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.5 },
+          "desktop": { "2023-06-06": 2.91 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.55 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.55 },
+          "desktop": { "2023-06-06": 2.41 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.001 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/best-sex-positions-for-getting-pregnant": {
+        "performance": {
+          "mobile": { "2023-06-06": 49 },
+          "desktop": { "2023-06-06": 65 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.74 },
+          "desktop": { "2023-06-06": 0.49 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.69 },
+          "desktop": { "2023-06-06": 6.85 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.65 },
+          "desktop": { "2023-06-06": 2.99 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.97 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.83 },
+          "desktop": { "2023-06-06": 3.64 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.01 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/creative-baby-gender-reveal-ideas": {
+        "performance": {
+          "mobile": { "2023-06-06": 57 },
+          "desktop": { "2023-06-06": 65 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.58 },
+          "desktop": { "2023-06-06": 0.54 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.65 },
+          "desktop": { "2023-06-06": 7.11 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.73 },
+          "desktop": { "2023-06-06": 3.49 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.4 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 7.14 },
+          "desktop": { "2023-06-06": 3.42 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0.014 }
+        }
+      },
+      "https://www.thebump.com/a/vitamins-you-need-to-conceive": {
+        "performance": {
+          "mobile": { "2023-06-06": 70 },
+          "desktop": { "2023-06-06": 71 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.55 },
+          "desktop": { "2023-06-06": 0.55 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.24 },
+          "desktop": { "2023-06-06": 7.12 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.13 },
+          "desktop": { "2023-06-06": 3.7 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.83 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.58 },
+          "desktop": { "2023-06-06": 2.37 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.025 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/what-is-implantation-bleeding": {
+        "performance": {
+          "mobile": { "2023-06-06": 64 },
+          "desktop": { "2023-06-06": 70 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.64 },
+          "desktop": { "2023-06-06": 0.54 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.04 },
+          "desktop": { "2023-06-06": 6.44 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.41 },
+          "desktop": { "2023-06-06": 3.54 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.32 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.48 },
+          "desktop": { "2023-06-06": 2.5 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/overfeeding-baby": {
+        "performance": {
+          "mobile": { "2023-06-06": 61 },
+          "desktop": { "2023-06-06": 73 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.57 },
+          "desktop": { "2023-06-06": 0.5 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.01 },
+          "desktop": { "2023-06-06": 6.66 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.11 },
+          "desktop": { "2023-06-06": 2.83 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.43 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.97 },
+          "desktop": { "2023-06-06": 2.4 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/how-to-teach-baby-sign-language": {
+        "performance": {
+          "mobile": { "2023-06-06": 53 },
+          "desktop": { "2023-06-06": 68 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.76 },
+          "desktop": { "2023-06-06": 0.65 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.88 },
+          "desktop": { "2023-06-06": 6.88 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 5.11 },
+          "desktop": { "2023-06-06": 3.16 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.49 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6.41 },
+          "desktop": { "2023-06-06": 2.84 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.001 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/best-sex-positions-for-third-trimester": {
+        "performance": {
+          "mobile": { "2023-06-06": 52 },
+          "desktop": { "2023-06-06": 74 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.53 },
+          "desktop": { "2023-06-06": 0.55 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.28 },
+          "desktop": { "2023-06-06": 6.2 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.93 },
+          "desktop": { "2023-06-06": 3.63 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.81 },
+          "desktop": { "2023-06-06": 0.03 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.66 },
+          "desktop": { "2023-06-06": 2.06 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.05 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/newborn-hiccups-why-babies-get-how-to-get-rid": {
+        "performance": {
+          "mobile": { "2023-06-06": 62 },
+          "desktop": { "2023-06-06": 74 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.58 },
+          "desktop": { "2023-06-06": 0.43 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.26 },
+          "desktop": { "2023-06-06": 6.18 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.05 },
+          "desktop": { "2023-06-06": 2.8 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.47 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.85 },
+          "desktop": { "2023-06-06": 2.28 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.042 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/baby-rash": {
+        "performance": {
+          "mobile": { "2023-06-06": 46 },
+          "desktop": { "2023-06-06": 69 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.56 },
+          "desktop": { "2023-06-06": 0.43 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 14.88 },
+          "desktop": { "2023-06-06": 6.51 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 5.81 },
+          "desktop": { "2023-06-06": 2.97 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.73 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6.16 },
+          "desktop": { "2023-06-06": 2.82 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.001 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/checklist-packing-a-hospital-bag": {
+        "performance": {
+          "mobile": { "2023-06-06": 69 },
+          "desktop": { "2023-06-06": 69 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.57 },
+          "desktop": { "2023-06-06": 0.47 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.07 },
+          "desktop": { "2023-06-06": 6.74 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 2.84 },
+          "desktop": { "2023-06-06": 3.02 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.97 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.45 },
+          "desktop": { "2023-06-06": 2.89 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.015 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/registry-101": {
+        "performance": {
+          "mobile": { "2023-06-06": 58 },
+          "desktop": { "2023-06-06": 68 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.6 },
+          "desktop": { "2023-06-06": 0.56 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.23 },
+          "desktop": { "2023-06-06": 7.06 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.59 },
+          "desktop": { "2023-06-06": 3.5 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.48 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6.32 },
+          "desktop": { "2023-06-06": 2.76 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.007 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/early-signs-of-pregnancy": {
+        "performance": {
+          "mobile": { "2023-06-06": 50 },
+          "desktop": { "2023-06-06": 69 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.67 },
+          "desktop": { "2023-06-06": 0.49 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 8.05 },
+          "desktop": { "2023-06-06": 6.52 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.26 },
+          "desktop": { "2023-06-06": 3.25 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.9 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6 },
+          "desktop": { "2023-06-06": 2.82 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.01 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/best-gifts-for-2-year-olds": {
+        "performance": {
+          "mobile": { "2023-06-06": 51 },
+          "desktop": { "2023-06-06": 66 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.81 },
+          "desktop": { "2023-06-06": 0.56 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.92 },
+          "desktop": { "2023-06-06": 7.41 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 4.04 },
+          "desktop": { "2023-06-06": 3.29 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.63 },
+          "desktop": { "2023-06-06": 0.07 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6.96 },
+          "desktop": { "2023-06-06": 3.2 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.001 },
+          "desktop": { "2023-06-06": 0.004 }
+        }
+      },
+      "https://www.thebump.com/a/best-gifts-1-year-old": {
+        "performance": {
+          "mobile": { "2023-06-06": 54 },
+          "desktop": { "2023-06-06": 67 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.64 },
+          "desktop": { "2023-06-06": 0.6 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.31 },
+          "desktop": { "2023-06-06": 7.55 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.69 },
+          "desktop": { "2023-06-06": 3.43 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.63 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.68 },
+          "desktop": { "2023-06-06": 2.96 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.013 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/am-i-pregnant-quiz": {
+        "performance": {
+          "mobile": { "2023-06-06": 79 },
+          "desktop": { "2023-06-06": 78 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.52 },
+          "desktop": { "2023-06-06": 0.56 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.74 },
+          "desktop": { "2023-06-06": 6.94 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.22 },
+          "desktop": { "2023-06-06": 3.59 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.41 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.29 },
+          "desktop": { "2023-06-06": 1.47 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/baby-poop": {
+        "performance": {
+          "mobile": { "2023-06-06": 57 },
+          "desktop": { "2023-06-06": 69 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.57 },
+          "desktop": { "2023-06-06": 0.49 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.24 },
+          "desktop": { "2023-06-06": 6.57 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.12 },
+          "desktop": { "2023-06-06": 2.93 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.48 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 6.51 },
+          "desktop": { "2023-06-06": 2.83 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.001 },
+          "desktop": { "2023-06-06": 0.004 }
+        }
+      },
+      "https://www.thebump.com/a/sunscreen-safe-during-pregnancy": {
+        "performance": {
+          "mobile": { "2023-06-06": 62 },
+          "desktop": { "2023-06-06": 72 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.56 },
+          "desktop": { "2023-06-06": 0.5 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.5 },
+          "desktop": { "2023-06-06": 6.78 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.41 },
+          "desktop": { "2023-06-06": 2.7 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.84 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 3.68 },
+          "desktop": { "2023-06-06": 2.53 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.007 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/perfect-push-presents-for-new-moms": {
+        "performance": {
+          "mobile": { "2023-06-06": 71 },
+          "desktop": { "2023-06-06": 67 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.99 },
+          "desktop": { "2023-06-06": 0.54 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10 },
+          "desktop": { "2023-06-06": 7.48 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.93 },
+          "desktop": { "2023-06-06": 3.02 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.55 },
+          "desktop": { "2023-06-06": 0.05 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.71 },
+          "desktop": { "2023-06-06": 3.02 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.001 },
+          "desktop": { "2023-06-06": 0.004 }
+        }
+      },
+      "https://www.thebump.com/a/grandmother-names": {
+        "performance": {
+          "mobile": { "2023-06-06": 56 },
+          "desktop": { "2023-06-06": 67 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.52 },
+          "desktop": { "2023-06-06": 0.49 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.2 },
+          "desktop": { "2023-06-06": 7.17 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.63 },
+          "desktop": { "2023-06-06": 3.28 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.47 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 7.6 },
+          "desktop": { "2023-06-06": 3.01 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.038 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/best-postpartum-belly-wraps": {
+        "performance": {
+          "mobile": { "2023-06-06": 65 },
+          "desktop": { "2023-06-06": 70 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.84 },
+          "desktop": { "2023-06-06": 0.65 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 9.14 },
+          "desktop": { "2023-06-06": 7.43 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.08 },
+          "desktop": { "2023-06-06": 3.53 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 1.11 },
+          "desktop": { "2023-06-06": 0.06 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 2.76 },
+          "desktop": { "2023-06-06": 2.42 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0.018 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      },
+      "https://www.thebump.com/a/ultrasound-wrong-gender": {
+        "performance": {
+          "mobile": { "2023-06-06": 62 },
+          "desktop": { "2023-06-06": 75 }
+        },
+        "first-contentful-paint": {
+          "mobile": { "2023-06-06": 1.42 },
+          "desktop": { "2023-06-06": 0.5 }
+        },
+        "interactive": {
+          "mobile": { "2023-06-06": 10.14 },
+          "desktop": { "2023-06-06": 6.48 }
+        },
+        "speed-index": {
+          "mobile": { "2023-06-06": 3.13 },
+          "desktop": { "2023-06-06": 4.89 }
+        },
+        "total-blocking-time": {
+          "mobile": { "2023-06-06": 0.41 },
+          "desktop": { "2023-06-06": 0.04 }
+        },
+        "largest-contentful-paint": {
+          "mobile": { "2023-06-06": 5.34 },
+          "desktop": { "2023-06-06": 1.93 }
+        },
+        "cumulative-layout-shift": {
+          "mobile": { "2023-06-06": 0 },
+          "desktop": { "2023-06-06": 0 }
+        }
+      }
+}
