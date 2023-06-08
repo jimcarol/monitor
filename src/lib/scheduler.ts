@@ -21,11 +21,11 @@ class Scheduler {
     
     this.jobs['lighthouse'] = schedule.scheduleJob(rule, async function () {
       console.log("start runing lighthouse!!!")
-      await job.startJob('qa')
+    //   await job.startJob('qa')
       await job.startJob('prod')
     })
 
-    await job.startJob('qa')
+    // await job.startJob('qa')
     await job.startJob('prod')
   }
 

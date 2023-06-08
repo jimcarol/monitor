@@ -18,10 +18,10 @@ class Scheduler {
         console.log(`Job  successfully initialized`);
         this.jobs['lighthouse'] = node_schedule_1.default.scheduleJob(rule, async function () {
             console.log("start runing lighthouse!!!");
-            await job_1.default.startJob('qa');
+            //   await job.startJob('qa')
             await job_1.default.startJob('prod');
         });
-        await job_1.default.startJob('qa');
+        // await job.startJob('qa')
         await job_1.default.startJob('prod');
     }
     del(key) {
